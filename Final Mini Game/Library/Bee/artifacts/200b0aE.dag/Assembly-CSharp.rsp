@@ -353,7 +353,11 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.12f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/CameraController.cs"
 "Assets/Scripts/Coin.cs"
+"Assets/Scripts/GameManager.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/SpawnManager.cs"
+"Assets/Scripts/UiManager.cs"
+"Assets/Scripts/Zombie.cs"
 -langversion:9.0
 
 /deterministic

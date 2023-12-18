@@ -10,6 +10,7 @@ public class Coin : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             Debug.Log("Player collected the coin.");
+            GameObject.Find("Canvas").GetComponent<UiManager>().UpdateCoinCount();
             Destroy(this.gameObject);
         }
     }
