@@ -1,20 +1,18 @@
 ﻿<Properties StartupConfiguration="{4011BB39-C44E-1CB6-1487-7B09D5200630}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Coin.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
     <Files>
       <File FileName="Assets/Scripts/SpawnManager.cs" Line="37" Column="24" />
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="41" Column="2" />
-      <File FileName="Assets/Scripts/GameManager.cs" Line="22" Column="74" />
-      <File FileName="Assets/Scripts/Zombie.cs" Line="31" Column="84" />
-      <File FileName="Assets/Scripts/Coin.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="46" Column="55" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="12" Column="18" />
+      <File FileName="Assets/Scripts/Zombie.cs" />
+      <File FileName="Assets/Scripts/Coin.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Final Mini Game" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="Coin.cs" selected="True" />
-              </Node>
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -23,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c20d9466-6679-493b-aa95-463585b6b82f" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3dac83dc-b656-4245-b6a6-fc82d5b6ece9" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
